@@ -3,10 +3,10 @@ $ =============================================================
 $ ========== USER MACROS ======================================
 $ =============================================================
 $
-|AUTHOR|    = YOUR NAME 
-|AUTHORREF| = 
-|EMAIL|     = 
-|COMPANY|   = 
+|AUTHOR|    = Louis Plissonneau
+|AUTHORREF| = LP
+|EMAIL|     = louis.plissonneau@a3.epfl.ch
+|COMPANY|   = Orange Labs
 |COPYRIGHT| = Copyright (c) |YEAR|, |AUTHOR|
 |STYLE|     = default
 $
